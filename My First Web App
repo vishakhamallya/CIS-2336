@@ -7,5 +7,10 @@
 		<h1><strong>Hello</strong>, World!<h1>
 		<img src="astros.png" alt="Houston Astros Logo">
 		<a href="https://www.mlb.com/astros">Houston Astros</a>
+		<h2>My Favorite Astros AreL</h2>
+		<ul> 
+			<li>Alex Bregman</li>
+			<li>Marwin Gonzalez</li>
+			<li>George Springer</li>
 	</body>
 </html>
